@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+ 
 Welcome to Haorui Wang's homepage. I am a fourth-year CSE Ph.D. candidate at Georgia Institute of Technology, advised by Prof. [Chao Zhang](http://chaozhang.org/). Before joining Georgia Tech, I obtained my bachelor’s degree from the Department of Computer Science, Wuhan University in 2022. I have also worked on Graph Neural Networks under the supervision of Prof. [Pan Li](https://sites.google.com/view/panli-purdue/home). My current research interests focus on LLM agents, alignment, and synthetic data generation.
 
 I am currently working as an Applied Scientist Intern at [Amazon Stores Foundational AI](https://www.aboutamazon.com/news/retail/amazon-rufus), focusing on synthetic data generation and RL training for web agents. Previously, I worked as a summer research intern at [NEC lab](https://www.nec-labs.com/) , focusing on Multi-agent LLM for decision making.
