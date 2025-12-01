@@ -31,7 +31,7 @@ Welcome to Haorui Wang's homepage. I am a fourth-year CSE Ph.D. candidate at Geo
 
 I am currently working as an Applied Scientist Intern at [Amazon Stores Foundational AI](https://www.aboutamazon.com/news/retail/amazon-rufus), focusing on synthetic data generation and RL training for web agents. Previously, I worked as a summer research intern at [NEC lab](https://www.nec-labs.com/) , focusing on Multi-agent LLM for decision making.
 
-My recent research covers the following directions: LLM for scientific discovery ([ICLR'25](https://arxiv.org/pdf/2406.16976), [ICML'25](https://openreview.net/pdf?id=NhkNX8jYld)), LLM alignment ([NIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/file/41bba7b0f5c81e789a20bb16a370aeeb-Paper-Conference.pdf)), and LLM knowledge distillation ([COLM'24](https://openreview.net/pdf/d250446eeb0100b4ea858244ac451c7b82ff20c9.pdf)).
+My recent research covers the following directions: LLM for scientific discovery ([ICLR'25](https://arxiv.org/pdf/2406.16976), [ICML'25](https://openreview.net/pdf?id=NhkNX8jYld)), LLM alignment ([NIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/file/41bba7b0f5c81e789a20bb16a370aeeb-Paper-Conference.pdf)), and LLM knowledge distillation ([COLM'24](https://openreview.net/pdf/d250446eeb0100b4ea858244ac451c7b82ff20c9.pdf)). My ongoing research focuses on self-evolving agents in scientific discovery tasks and multi-agent systems.
 
 
 <p style="color:#d7263d; font-weight:bold; font-size:1.05em;">
