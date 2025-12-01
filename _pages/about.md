@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to Haorui Wang's homepage. I am a fourth-year CSE Ph.D. candidate at Georgia Institute of Technology, advised by Prof. [Chao Zhang](http://chaozhang.org/). Before joining Georgia Tech, I obtained my bachelor’s degree from the Department of Computer Science, Wuhan University in 2022. I have also worked on Graph Neural Networks under the supervision of Prof. [Pan Li](https://sites.google.com/view/panli-purdue/home). My current research interests focus on LLM agents, alignment, and synthetic data generation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently working as an Applied Scientist Intern at [Amazon Stores Foundational AI](https://www.aboutamazon.com/news/retail/amazon-rufus), focusing on synthetic data generation and RL training for web agents. Previously, I worked as a summer research intern at [NEC lab](https://www.nec-labs.com/) , focusing on Multi-agent LLM for decision making.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My recent research covers the following directions: LLM for scientific discovery ([ICLR'25](https://arxiv.org/pdf/2406.16976), [ICML'25](https://openreview.net/pdf?id=NhkNX8jYld)), LLM alignment ([NIPS'24](https://proceedings.neurips.cc/paper_files/paper/2024/file/41bba7b0f5c81e789a20bb16a370aeeb-Paper-Conference.pdf)), and LLM knowledge distillation ([COLM'24](https://openreview.net/pdf/d250446eeb0100b4ea858244ac451c7b82ff20c9.pdf)).
+
+
+<p style="color:#d7263d; font-weight:bold; font-size:1.05em;">
+I am actively seeking internship opportunities (Spring 2026, Summer 2026, and Fall 2026; part-time or full-time). I am open to different topics and happy to discuss potential collaborations and opportunities.
+</p>
