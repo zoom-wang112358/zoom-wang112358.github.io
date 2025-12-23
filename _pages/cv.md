@@ -9,3 +9,8 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+<a class="btn btn-primary"
+   href="{{ '/assets/pdf/haorui_CV.pdf' | relative_url }}"
+   target="_blank" rel="noopener">
+  Download CV (PDF)
+</a>
